@@ -8,6 +8,6 @@
         "niceName": "AFK",
         "guiName": "AFKer"
     },
-    "servers": ["https://raw.githubusercontent.com/KYGAS/AFKer/master/"],
-    "supportUrl": "https://github.com/KYGAS/AFKer/issues"
+    "servers": ["https://raw.githubusercontent.com/X0RPR0/AFKer/master/"],
+    "supportUrl": "https://github.com/X0RPR0/AFKer/issues"
 }
