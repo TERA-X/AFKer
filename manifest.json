@@ -1,9 +1,9 @@
 {
     "files": {
-        "LICENSE": "589ed823e9a84c56feb95ac58e7cf384626b9cbf4fda2a907bc36e103de1bad2",
-        "README.md": "76e7b9b02983d30f657f2c24cae6567eff3a63a0a7e9ff9fff1839c3b9291055",
         "index.js": "af113bf1c14fd21362f31dba58ce0bd0b634797f0778accc54557b206dea8844",
-        "module.json": "e0b1e15fde746d2e1b8f1ca1bc64a920a83ff0e79373e78a7e3a8ffc53a397af"
+        "LICENSE": "589ed823e9a84c56feb95ac58e7cf384626b9cbf4fda2a907bc36e103de1bad2",
+        "module.json": "09be34b6d2890efb307b1b1ec8f309251a56c5d69460992a91c8ca5636b7dfee",
+        "README.md": "76e7b9b02983d30f657f2c24cae6567eff3a63a0a7e9ff9fff1839c3b9291055"
     },
     "defs": {
         "C_PLAYER_LOCATION": 5,
